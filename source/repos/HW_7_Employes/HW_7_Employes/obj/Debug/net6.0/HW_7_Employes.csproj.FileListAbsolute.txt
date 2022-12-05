@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\HW_7_Employes\HW_7_Employes\bin\Debug\net6.0\HW_7_Employes.exe
+C:\Users\Alex\source\repos\HW_7_Employes\HW_7_Employes\bin\Debug\net6.0\HW_7_Employes.deps.json
+C:\Users\Alex\source\repos\HW_7_Employes\HW_7_Employes\bin\Debug\net6.0\HW_7_Employes.runtimeconfig.json
+C:\Users\Alex\source\repos\HW_7_Employes\HW_7_Employes\bin\Debug\net6.0\HW_7_Employes.dll
+C:\Users\Alex\source\repos\HW_7_Employes\HW_7_Employes\bin\Debug\net6.0\HW_7_Employes.pdb
+C:\Users\Alex\source\repos\HW_7_Employes\HW_7_Employes\obj\Debug\net6.0\HW_7_Employes.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\HW_7_Employes\HW_7_Employes\obj\Debug\net6.0\HW_7_Employes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\HW_7_Employes\HW_7_Employes\obj\Debug\net6.0\HW_7_Employes.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\HW_7_Employes\HW_7_Employes\obj\Debug\net6.0\HW_7_Employes.AssemblyInfo.cs
+C:\Users\Alex\source\repos\HW_7_Employes\HW_7_Employes\obj\Debug\net6.0\HW_7_Employes.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\HW_7_Employes\HW_7_Employes\obj\Debug\net6.0\HW_7_Employes.dll
+C:\Users\Alex\source\repos\HW_7_Employes\HW_7_Employes\obj\Debug\net6.0\refint\HW_7_Employes.dll
+C:\Users\Alex\source\repos\HW_7_Employes\HW_7_Employes\obj\Debug\net6.0\HW_7_Employes.pdb
+C:\Users\Alex\source\repos\HW_7_Employes\HW_7_Employes\obj\Debug\net6.0\HW_7_Employes.genruntimeconfig.cache
+C:\Users\Alex\source\repos\HW_7_Employes\HW_7_Employes\obj\Debug\net6.0\ref\HW_7_Employes.dll
