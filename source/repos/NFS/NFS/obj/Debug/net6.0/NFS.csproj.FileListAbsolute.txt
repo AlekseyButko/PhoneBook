@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\NFS\NFS\bin\Debug\net6.0\NFS.exe
+C:\Users\Alex\source\repos\NFS\NFS\bin\Debug\net6.0\NFS.deps.json
+C:\Users\Alex\source\repos\NFS\NFS\bin\Debug\net6.0\NFS.runtimeconfig.json
+C:\Users\Alex\source\repos\NFS\NFS\bin\Debug\net6.0\NFS.dll
+C:\Users\Alex\source\repos\NFS\NFS\bin\Debug\net6.0\NFS.pdb
+C:\Users\Alex\source\repos\NFS\NFS\obj\Debug\net6.0\NFS.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\NFS\NFS\obj\Debug\net6.0\NFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\NFS\NFS\obj\Debug\net6.0\NFS.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\NFS\NFS\obj\Debug\net6.0\NFS.AssemblyInfo.cs
+C:\Users\Alex\source\repos\NFS\NFS\obj\Debug\net6.0\NFS.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\NFS\NFS\obj\Debug\net6.0\NFS.dll
+C:\Users\Alex\source\repos\NFS\NFS\obj\Debug\net6.0\refint\NFS.dll
+C:\Users\Alex\source\repos\NFS\NFS\obj\Debug\net6.0\NFS.pdb
+C:\Users\Alex\source\repos\NFS\NFS\obj\Debug\net6.0\NFS.genruntimeconfig.cache
+C:\Users\Alex\source\repos\NFS\NFS\obj\Debug\net6.0\ref\NFS.dll
