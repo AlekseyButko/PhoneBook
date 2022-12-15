@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\lec10\lec10\bin\Debug\net6.0\lec10.exe
+C:\Users\Alex\source\repos\lec10\lec10\bin\Debug\net6.0\lec10.deps.json
+C:\Users\Alex\source\repos\lec10\lec10\bin\Debug\net6.0\lec10.runtimeconfig.json
+C:\Users\Alex\source\repos\lec10\lec10\bin\Debug\net6.0\lec10.dll
+C:\Users\Alex\source\repos\lec10\lec10\bin\Debug\net6.0\lec10.pdb
+C:\Users\Alex\source\repos\lec10\lec10\obj\Debug\net6.0\lec10.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\lec10\lec10\obj\Debug\net6.0\lec10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\lec10\lec10\obj\Debug\net6.0\lec10.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\lec10\lec10\obj\Debug\net6.0\lec10.AssemblyInfo.cs
+C:\Users\Alex\source\repos\lec10\lec10\obj\Debug\net6.0\lec10.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\lec10\lec10\obj\Debug\net6.0\lec10.dll
+C:\Users\Alex\source\repos\lec10\lec10\obj\Debug\net6.0\refint\lec10.dll
+C:\Users\Alex\source\repos\lec10\lec10\obj\Debug\net6.0\lec10.pdb
+C:\Users\Alex\source\repos\lec10\lec10\obj\Debug\net6.0\lec10.genruntimeconfig.cache
+C:\Users\Alex\source\repos\lec10\lec10\obj\Debug\net6.0\ref\lec10.dll
